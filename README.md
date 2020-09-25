@@ -1,6 +1,6 @@
 *This is my submission to the [MICCAI Educational Challenge 2020](https://miccai-sb.github.io/challenge.html).*
 
-*You can run the notebook on [Google Colab](https://colab.research.google.com/drive/1tI35u7V1ogDTKzaraXwwZRMebBIYiqOe?usp=sharing).*
+*You can run the notebook on [Google Colab](https://colab.research.google.com/github/fepegar/miccai-educational-challenge-2020/blob/master/Data_preprocessing_and_augmentation_using_TorchIO_a_tutorial.ipynb).*
 
 <a href="https://colab.research.google.com/github/fepegar/miccai-educational-challenge-2020/blob/master/Data_preprocessing_and_augmentation_using_TorchIO_a_tutorial.ipynb"
    target="_parent">

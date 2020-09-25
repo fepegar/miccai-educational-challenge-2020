@@ -2,7 +2,7 @@
 
 *You can run the notebook on [Google Colab](https://colab.research.google.com/drive/1tI35u7V1ogDTKzaraXwwZRMebBIYiqOe?usp=sharing).*
 
-<a href="https://colab.research.google.com/drive/1tI35u7V1ogDTKzaraXwwZRMebBIYiqOe?usp=sharing"
+<a href="https://colab.research.google.com/github/fepegar/miccai-educational-challenge-2020/blob/master/Data_preprocessing_and_augmentation_using_TorchIO_a_tutorial.ipynb"
    target="_parent">
    <img align="left"
       src="https://colab.research.google.com/assets/colab-badge.svg">
